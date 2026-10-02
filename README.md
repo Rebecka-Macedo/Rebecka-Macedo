@@ -73,6 +73,6 @@ e buscar uma nova solução.
 
 ### Um ensinamento que levarei para a vida?
 
-**"O computador é burro — e um burro muito rápido."**
+***"O computador é burro — e um burro muito rápido."***
 
 </div>
